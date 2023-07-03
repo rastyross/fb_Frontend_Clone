@@ -1,0 +1,93 @@
+.outerDiv{
+    background-color: #F5F5F5;
+    
+}
+
+
+.innerDiv{
+    height: 200px;
+    padding: 90px 200px;
+    width: 30%;
+    display: inline-block;  
+    
+    
+}
+
+
+.logo{
+    /* hei  ; */
+    width: 70%;
+    font-size: 60px;
+    font-family: sans-serif;
+    color: #1877f2;
+}
+
+.about{
+    font-family: sans-serif;
+    line-height: 40px;
+    padding-bottom: 10px;
+    margin-top: 0px;
+    
+}
+
+.whole{
+    width: 420px;
+    display: inline-block;
+    margin: 60px 20px 140px auto;
+    padding: 90px;
+}
+
+
+.bottomInnerDiv{
+    width: 378px;
+    background-color: white;
+    border-radius: 6px;
+    padding: 30px 20px;
+}
+
+
+.inputs{
+    height: 40px;
+    width: 370px;
+    border-color: #1877f2;
+    border-width: thin;
+    border-radius: 6px;
+    
+}
+
+.loginButton{
+    height: 40px;
+    width: 377px;
+    background-color: #1877f2;
+    color: white;
+    font-size: large;
+    font-weight: 700;
+    border-radius: 6px;
+    border-style: hidden;
+    /* padding: 20px 20px; */
+}
+
+a{
+    margin-left: 35%;
+}
+
+hr{
+    width: 370px;
+    border-bottom: 0px;
+}
+
+.signUpButton{
+    margin-left: 75px;
+    height: 40px;
+    width: 60%;
+    background-color: #4cbb17;
+    color: white;
+    font-size: large;
+    font-weight: 700;
+    border-radius: 6px;
+    border-style: hidden;
+}
+
+p{
+    text-align: center;
+}
